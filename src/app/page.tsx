@@ -333,7 +333,7 @@ export default function Home() {
             lineHeight: "18px",
           }}
         >
-          coopers@coopers.pro
+          contato@contato.com
         </Typography>
         <Typography
           sx={{
@@ -345,7 +345,7 @@ export default function Home() {
             lineHeight: "17.07px",
           }}
         >
-          © 2021 Coopers. All rights reserved.
+          © 2024 Empresa. All rights reserved.
         </Typography>
       </Box>
     </main>

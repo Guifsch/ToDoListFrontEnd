@@ -168,10 +168,10 @@ export default function AppBarComponent() {
       >
         <CardMedia
           component="img"
-          image="/images/Logo.png"
+          image="/images/Generic_Logo.png"
           alt="Imagem da logo da página"
           sx={{
-            width: "217px",
+            width: "158px",
             height: "50px",
             "@media (max-width:600px)": {
               width: "140px",

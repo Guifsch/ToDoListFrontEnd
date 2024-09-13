@@ -7,6 +7,9 @@ pnpm-debug.log*
 lerna-debug.log*
 
 .env
+.env.development
+.env.development
+
 .vercel
 /client/.env
 node_modules
@@ -26,3 +29,5 @@ dist-ssr
 *.sw?
 
 
+
+.vercel
